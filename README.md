@@ -1,4 +1,4 @@
 Cumbuca - Livro design patterns
 
-yarn install
-yarn test
+- yarn install
+- yarn test
